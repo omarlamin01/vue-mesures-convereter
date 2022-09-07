@@ -305,17 +305,17 @@ main {
 	min-width: 350px;
 }
 .drop-down::-webkit-scrollbar {
-  width: 8px;
+	width: 8px;
 }
 
 .drop-down::-webkit-scrollbar-track {
-  background: #191919;
-  border-radius: 8px;
+	background: #191919;
+	border-radius: 8px;
 }
 
 .drop-down::-webkit-scrollbar-thumb {
-  background: #5fcf80;
-  border-radius: 4px;
+	background: #5fcf80;
+	border-radius: 4px;
 }
 .element {
 	background-color: #212121;
