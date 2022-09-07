@@ -1,4 +1,4 @@
-# vue-music-player
+# vue-mesure-converter
 
 ## Project setup
 ```
